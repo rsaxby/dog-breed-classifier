@@ -1,4 +1,4 @@
-##Dog Breed Classifier
+## Dog Breed Classifier
 
 This was the second project in the Udacity Deep Learning Nanodegree program. This was the CNN unit capstone project, where we trained two models (one from scratch, and one using transfer learning) to classify a dog breed from any user-supplied image as input. 
 
